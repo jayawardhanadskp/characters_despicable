@@ -18,7 +18,7 @@ class AppTheme {
     letterSpacing: 1.1,
   );
 
-  static final TextStyle heading = TextStyle(
+  static final TextStyle heading = TextStyle( 
     fontFamily: 'WorkSans',
     fontWeight: FontWeight.w900,
     fontSize: 34,
