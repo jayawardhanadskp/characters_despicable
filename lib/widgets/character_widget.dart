@@ -87,7 +87,7 @@ class CharacterWidget extends StatelessWidget {
                   Hero(
                     tag: 'name-${character.name}',
                     child: Material(
-                      color: Colors.transparent,
+                      color: Colors.transparent, 
                       child: Text(
                         character.name,
                         style: AppTheme.heading,
