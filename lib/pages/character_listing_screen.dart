@@ -34,7 +34,7 @@ class _CharacterListingScreenState extends State<CharacterListingScreen> {
         leading: const Icon(Icons.arrow_back_ios),
         actions: const [
           Padding(
-            padding: EdgeInsets.only(right: 16.0),
+            padding: EdgeInsets.only(right: 16.0), 
             child: Icon(Icons.search),
           )
         ],
