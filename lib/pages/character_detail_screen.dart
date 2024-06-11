@@ -75,7 +75,7 @@ class _CharacterDetailScreenState extends State<CharacterDetailScreen> with Afte
                     tag: 'name-${widget.character.name}',
                     child: Material(
                       color: Colors.transparent,
-                      child: Text(widget.character.name, style: AppTheme.heading,),
+                      child: Text(widget.character.name, style: AppTheme.heading,), 
                     ),
                   )
 
